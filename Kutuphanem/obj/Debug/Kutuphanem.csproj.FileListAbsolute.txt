@@ -1,0 +1,24 @@
+c:\users\ozbay\documents\visual studio 2015\Projects\Kutuphanem\Kutuphanem\bin\Debug\Kutuphanem.exe.config
+C:\Users\ozbay\documents\visual studio 2015\Projects\Kutuphanem\Kutuphanem\bin\Debug\Kutuphanem.exe
+C:\Users\ozbay\documents\visual studio 2015\Projects\Kutuphanem\Kutuphanem\bin\Debug\Kutuphanem.pdb
+C:\Users\ozbay\documents\visual studio 2015\Projects\Kutuphanem\Kutuphanem\obj\Debug\Kutuphanem.csprojResolveAssemblyReference.cache
+C:\Users\ozbay\documents\visual studio 2015\Projects\Kutuphanem\Kutuphanem\obj\Debug\Kutuphanem.EklemeForm.resources
+C:\Users\ozbay\documents\visual studio 2015\Projects\Kutuphanem\Kutuphanem\obj\Debug\Kutuphanem.AramaForm.resources
+C:\Users\ozbay\documents\visual studio 2015\Projects\Kutuphanem\Kutuphanem\obj\Debug\Kutuphanem.Properties.Resources.resources
+C:\Users\ozbay\documents\visual studio 2015\Projects\Kutuphanem\Kutuphanem\obj\Debug\Kutuphanem.csproj.GenerateResource.Cache
+C:\Users\ozbay\documents\visual studio 2015\Projects\Kutuphanem\Kutuphanem\obj\Debug\Kutuphanem.exe
+C:\Users\ozbay\documents\visual studio 2015\Projects\Kutuphanem\Kutuphanem\obj\Debug\Kutuphanem.pdb
+C:\Users\ozbay\Desktop\Projeler\Kutuphanem\Kutuphanem\bin\Debug\Kutuphanem.exe.config
+C:\Users\ozbay\Desktop\Projeler\Kutuphanem\Kutuphanem\bin\Debug\Kutuphanem.exe
+C:\Users\ozbay\Desktop\Projeler\Kutuphanem\Kutuphanem\bin\Debug\Kutuphanem.pdb
+C:\Users\ozbay\Desktop\Projeler\Kutuphanem\Kutuphanem\obj\Debug\Kutuphanem.csprojAssemblyReference.cache
+C:\Users\ozbay\Desktop\Projeler\Kutuphanem\Kutuphanem\obj\Debug\Kutuphanem.EklemeForm.resources
+C:\Users\ozbay\Desktop\Projeler\Kutuphanem\Kutuphanem\obj\Debug\Kutuphanem.AramaForm.resources
+C:\Users\ozbay\Desktop\Projeler\Kutuphanem\Kutuphanem\obj\Debug\Kutuphanem.Properties.Resources.resources
+C:\Users\ozbay\Desktop\Projeler\Kutuphanem\Kutuphanem\obj\Debug\Kutuphanem.csproj.GenerateResource.cache
+C:\Users\ozbay\Desktop\Projeler\Kutuphanem\Kutuphanem\obj\Debug\Kutuphanem.csproj.CoreCompileInputs.cache
+C:\Users\ozbay\Desktop\Projeler\Kutuphanem\Kutuphanem\obj\Debug\Kutuphanem.exe
+C:\Users\ozbay\Desktop\Projeler\Kutuphanem\Kutuphanem\obj\Debug\Kutuphanem.pdb
+C:\Users\ozbay\Desktop\Projeler\4-Kutuphanem\Kutuphanem\bin\Debug\Kutuphanem.exe.config
+C:\Users\ozbay\Desktop\Projeler\4-Kutuphanem\Kutuphanem\obj\Debug\Kutuphanem.exe
+C:\Users\ozbay\Desktop\Projeler\4-Kutuphanem\Kutuphanem\obj\Debug\Kutuphanem.pdb
